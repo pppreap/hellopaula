@@ -24,7 +24,7 @@ THEN I am presented with a responsive layout that adapts to my viewport.
 
 ### Assets 
 
-These images demonstrate the design of the portolio:
+çthe design of the portolio:
 
 ![Intro Top Part of Portfolio](./images/port1.png)
 
