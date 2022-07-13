@@ -2,6 +2,7 @@
 
 Potential employers  wants to view and assess my portfolio  to see if I am a good fit for a job.  
 As a developer 	:woman_technologist:, I created a **responsive portfolio site** with HTML/CSS.
+Application Link: (https://pppreap.github.io/hellopaula/)
 
 ## Acceptance Criteria 
 WHEN the portfolio is loaded,
@@ -24,13 +25,15 @@ THEN I am presented with a responsive layout that adapts to my viewport.
 
 ### Assets 
 
-çthe design of the portolio:
+These are images of the design of the portolio:
 
 ![Intro Top Part of Portfolio](./images/port1.png)
 
-![ Part of Portfolio](./images/port2.png)
+![ Part of Portfolio](./images/port2.2.png)
 
 ![Contact part  of portfolio](./images/port3.png)
+
+
 
 
 
