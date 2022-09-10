@@ -29,9 +29,10 @@ These are images of the design of the portolio:
 
 ![Intro Top Part of Portfolio](./images/port1.png)
 
-![ Part of Portfolio](./images/port2.3.png)
+![ Main Portfolio](./images/port2.2.png)
+![ Project 2 Part of Portfolio](./images/port2.3.png)
 
-![Contact part  of portfolio](./images/port3.png)
+![Contact part  of portfolio](./images/port3.2.png)
 
 
 
