@@ -207,10 +207,11 @@ span {
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 60px;
+    padding-right: 20px;
 }
 
 .portfolio_container h1 {
-    font-size: 120px;
+    font-size: 100px;
     color: white;
     margin-bottom: 32px;
 }
@@ -221,11 +222,13 @@ span {
 }
 
 .portfolio_img {
-    height: 100%;
-    width: 100%;
+    height: 75%;
+    width: 75%;
+    display: grid;
+    margin-bottom: 20px;
 }
 
-.portfolio_right {
+ .portfolio_right {
     padding: 150px 100px 0 20px;
 }
 
@@ -242,9 +245,10 @@ span {
 .portfolio_right a {
     color: white;
     text-decoration: dotted;
-}
+} 
 
 .portfolio_projects {
+    position: relative;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -254,9 +258,10 @@ span {
 
 .portfolio_projects img {
     padding: 12px 8px;
-    width: 50%;
-    height: 50%;
+    width: 25%;
+    height: auto;
 }
+
 
 .portfolio_left  {
     position: relative;
@@ -265,12 +270,14 @@ span {
   /* Bottom right text */
   .text-block1 {
     position:absolute;
-    bottom: 80px;
-    right: 80px;
+    left: 30%;
+    /* right: 10px; */
+    bottom: 65%; 
+    /* right: 800px; */
     background-color: black;
     color: white;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
 .portfolio_projects {
@@ -280,29 +287,28 @@ span {
 
 .text-block2 {
     position: absolute;
-    float: fixed;
-    bottom: 100px;
-    right: 80px;
+    bottom: 80px;
+    left: 70px;
     background-color: black;
     color: white;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 
   .text-block3 {
     position: absolute;
-    top: 210px;
-    left: 70px;
+    top: 50px;
+    /* right:100px; */
+    left:220px;
     background-color: black;
     color: white;
     padding-left: 20px;
-    padding-right: 42px;
+    padding-right: 20px;
   }
 
   .text-block4 {
     position: absolute;
     bottom: 90px;
-   left: 80px;
     background-color: black;
     color: white;
     padding-left: 20px;
@@ -311,12 +317,12 @@ span {
 
   .text-block5 {
     position: absolute;
-    top: 80px;
-    right: 80px;
+    left: 850px;
+    bottom:100px;
     background-color: black;
     color: white;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
 @media screen  and (max-width:1000px) {
